@@ -1,0 +1,139 @@
+﻿@model IEnumerable<Data.Entities.Room>
+@{
+    Layout = null;
+    ViewBag.Title = "Manager Search";
+}
+<!DOCTYPE html>
+@Styles.Render("~/Content/css")
+@Html.Partial("~/Views/Manager/NavBarManager.cshtml")
+}
+<style>
+    .dropbtn {
+        background-color: #111;
+        color: white;
+        padding: 10px;
+        font-size: 16px;
+        border: 2px;
+        border-color: #191919;
+        color: #818181;
+        display: block;
+        background: #efefef
+    }
+
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f1f1f1;
+        min-width: 63px;
+        box-shadow: 3px 3px 3px 3px rgba(0,0,0,0.2);
+        z-index: 1;
+    }
+
+        .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+
+            .dropdown-content a:hover {
+                background-color: grey;
+            }
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+
+    .dropdown:hover .dropbtn {
+        background-color: dimgrey;
+    }
+
+    .usersList th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #2f2f2f;
+        color: white;
+    }
+
+    .usersList {
+        border-collapse: collapse;
+        width: 80%;
+    }
+
+        .usersList td, .usersList th {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+
+        .usersList tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        .usersList tr:hover {
+            background-color: #ddd;
+        }
+
+    .a {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+</style>
+} );
+<html>
+<head>
+</head>
+<body>
+    <h1 style="text-align: center;
+        margin-left: 5%;">
+        List of Rooms
+    </h1><br />
+    <table id="usersTable" class="usersList" style="height: 98px; margin-left: 220px; margin-right: auto;" width="1158">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Number</th>
+                <th>Adult Price</th>
+                <th>Child Price</th>
+                <th>Capacity</th>
+                @*<th>Type</th>*@
+                <th>Occupated</th>
+            </tr>
+        </thead>
+        <tbody>
+            @using (Html.BeginForm("AdminSearchRoom", "Admin", FormMethod.Get))
+            {
+                int i = 0;
+                foreach (var room in Model)
+                {
+                    i++;
+                    <tr>
+                        <td>@i</td>
+                        <td>@room.Number</td>
+                        <td>@room.AdultBedPrice</td>
+                        <td>@room.ChildBedPrice</td>
+                        <td>@room.Capacity</td>
+                        @*<td>@room.Type</td>*@
+                        <td>@room.Occupation</td>
+                    </tr>
+                }
+            }
+        </tbody>
+        <tfoot>
+            @*<tr>
+                <td colspan="8">
+                    <div class="links" style="font-weight:900; transform: scale(1.5,1.5); margin-left:250px">
+                        <a href="@Url.Action("AdminSearch", "Admin", new { pageAct = -1})" style="padding-right: 5px">&lArr;</a>
+                        <a href="@Url.Action("AdminSearch", "Admin", new { pageAct = 1})" style="padding-left: 5px">&rArr;</a>
+                    </div>
+                        </td>
+                        </tr>*@
+        </tfoot>
+    </table>
+</body>
+</html>

@@ -1,0 +1,58 @@
+﻿@model Data.Entities.Room
+@{
+    ViewBag.Title = "Admin Edit Room";
+}
+@Html.Partial("~/Views/Admin/NavBarAdmin.cshtml")
+<html>
+<head>
+    <style>
+        #create-div {
+            position: absolute;
+            left: 43%;
+            top: 20%;
+            border: 2px solid #ccc;
+            padding: 10px 10px;
+        }
+
+        label {
+            display: inline-block;
+            width: 100px;
+            margin-right: 30px;
+            text-align: right;
+        }
+
+        input {
+        }
+
+        fieldset {
+            border: none;
+            width: 500px;
+            margin: 0px auto;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center;
+        margin-left: 100px;">
+        Edit Manager
+    </h1><br />
+    @using (Html.BeginForm("AdminEditRoom", "Admin", Model))
+    {
+<div id="create-div">
+    <label for="capacity" style="margin-left: 10px">Capacity:</label>
+    @Html.EditorFor(m => m.Capacity)<br />
+
+    <label for="name" style="margin-left: 10px">Adult price:</label>
+    @Html.EditorFor(m => m.AdultBedPrice)<br />
+
+    <label for="midname" style="margin-left: 10px">Child price:</label>
+    @Html.EditorFor(m => m.ChildBedPrice)<br />
+
+    <label for="surename" style="margin-left: 10px">Room number:</label>
+    @Html.EditorFor(m => m.Number)<br />
+
+    <input type="submit" name="saveroominfo" value="Save changes" style="margin-left:120px" />
+</div>
+    }
+</body>
+</html>

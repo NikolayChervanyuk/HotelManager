@@ -1,0 +1,67 @@
+﻿@model Data.Entities.User
+@{
+    ViewBag.Title = "Admin add room";
+}
+@Html.Partial("~/Views/Admin/NavBarAdmin.cshtml")
+<html>
+<head>
+    <style>
+        #create-div {
+            position: absolute;
+            left: 43%;
+            top: 20%;
+            border: 2px solid #ccc;
+            padding: 10px 10px;
+        }
+
+        label {
+            display: inline-block;
+            width: 100px;
+            margin-right: 30px;
+            text-align: right;
+        }
+
+        input {
+        }
+
+        fieldset {
+            border: none;
+            width: 500px;
+            margin: 0px auto;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center;
+        margin-left: 100px;">
+        Add Room
+    </h1><br />
+    @using (Html.BeginForm("AdminCreateRoom", "Admin"))
+    {
+        <div id="create-div">
+            <label for="capacity" style="margin-left: 10px">Capacity:</label>
+            <input type="number" name="capacity" value="" /> <br />
+
+            @*<label for="roomtype" style="margin-left: 250px">Room type:</label>
+                <select id="roomtype" name="roomtype">
+                    <option value="TwoSingleBeds">Two single beds</option>
+                    <option value="Apartment">Apartment</option>
+                    <option value="DoubleBed">DoubleBed</option>
+                    <option value="Penthouse">Penthouse</option>
+                    <option value="Мaisonette">Maisonette</option>
+                </select>*@
+
+            <label for="name" style="margin-left: 10px">Adult price:</label>
+            <input type="number" name="adultbedprice" value="" /> <br />
+
+            <label for="midname" style="margin-left: 10px">Child price:</label>
+            <input type="number" name="childbedprice" value="" /> <br />
+
+            <label for="surename" style="margin-left: 10px">Room number:</label>
+            <input type="text" name="number" value="" /> <br />
+
+            <input type="submit" name="submitroominfo" value="Add room" style="margin-left:120px" />
+        </div>
+    }
+</body>
+</html>

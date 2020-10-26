@@ -1,0 +1,72 @@
+﻿@model Data.Entities.User
+@{
+    ViewBag.Title = "Admin Edit";
+}
+@Html.Partial("~/Views/Admin/NavBarAdmin.cshtml")
+<html>
+<head>
+    <style>
+        #create-div {
+            position: absolute;
+            left: 43%;
+            top: 20%;
+            border: 2px solid #ccc;
+            padding: 10px 10px;
+        }
+
+        label {
+            display: inline-block;
+            width: 100px;
+            margin-right: 30px;
+            text-align: right;
+        }
+
+        input {
+        }
+
+        fieldset {
+            border: none;
+            width: 500px;
+            margin: 0px auto;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center;
+        margin-left: 100px;">
+        Edit Manager
+    </h1><br />
+    @using (Html.BeginForm("AdminEdit", "Admin", Model))
+    {
+         <div id="create-div">
+             <label for="username" style="margin-left: 10px">Username:</label>
+             @Html.EditorFor(m => m.Username)<br />
+
+             <label for="password" style="margin-left: 10px">Password:</label>
+             @Html.EditorFor(m => m.Password)<br />
+
+             <label for="name" style="margin-left: 10px">Name:</label>
+             @Html.EditorFor(m => m.Name)<br />
+
+             <label for="midname" style="margin-left: 10px">Middle name:</label>
+             @Html.EditorFor(m => m.MiddleName)<br />
+
+             <label for="surename" style="margin-left: 10px">Surename:</label>
+             @Html.EditorFor(m => m.SureName)<br />
+
+             <label for="idnum" style="margin-left: 10px">ID:</label>
+             @Html.EditorFor(m => m.IDnum)<br />
+
+             <label for="phonenumber" style="margin-left: 10px">Phone number:</label>
+             @Html.EditorFor(m => m.PhoneNumber)<br />
+             
+             <label for="phonenumber" style="margin-left: 10px">Is Active:</label>
+             @Html.CheckBoxFor(m => m.IsActive)<br />
+
+             <label for="email" style="margin-left: 10px">Email:</label>
+             @Html.EditorFor(m => m.Email)<br />
+             <input type="submit" name="saveuserinfo" value="Save changes" style="margin-left:120px" />
+         </div>
+    }
+</body>
+</html>

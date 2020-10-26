@@ -1,0 +1,58 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+@Styles.Render("~/Content/css")
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Hotel Managment - Login</title>
+</head>
+<body>
+    <div class="body-content">
+
+        <style>
+            h1 {
+                text-align: center;
+            }
+
+            h2 {
+                text-align: center;
+            }
+
+            button {
+                display: block;
+                margin: auto;
+                text-align: center;
+                font-weight: 300;
+                left: 50%;
+            }
+
+            div {
+                text-align: center;
+            }
+
+            text {
+                text-align: center;
+                left: 50%;
+                font-weight: 600;
+            }
+        </style>
+        <div>
+            <h1>Welcome to the Hotel Managment system!</h1>
+        </div>
+        <div class="align-content-center">
+            <div>
+                <button type="button" onclick="location.href='@Url.Action("ManagerLogin", "Login")'">Login as Manager<br /></button>
+            </div>
+            <div>
+                <text>or</text>
+            </div>
+            <div>
+                <button type="button" onclick="location.href='@Url.Action("AdminLogin", "Login")'">Login as Administrator</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

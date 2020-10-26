@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CAFC8C98-0FC8-4969-A54E-90518E312977}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Data</RootNamespace>
+    <AssemblyName>Data</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entities\Admin.cs" />
+    <Compile Include="Entities\BaseEntity.cs" />
+    <Compile Include="Entities\Client.cs" />
+    <Compile Include="Entities\Reservation.cs" />
+    <Compile Include="Entities\Room.cs" />
+    <Compile Include="Entities\User.cs" />
+    <Compile Include="HmDbContext.cs" />
+    <Compile Include="Migrations\202002211430096_InitialMigration.cs" />
+    <Compile Include="Migrations\202002211430096_InitialMigration.Designer.cs">
+      <DependentUpon>202002211430096_InitialMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202002211450400_InitialMigration1.cs" />
+    <Compile Include="Migrations\202002211450400_InitialMigration1.Designer.cs">
+      <DependentUpon>202002211450400_InitialMigration1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202002230949535_Admin_Introduction.cs" />
+    <Compile Include="Migrations\202002230949535_Admin_Introduction.Designer.cs">
+      <DependentUpon>202002230949535_Admin_Introduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202002241400323_InitialMigrationComplete.cs" />
+    <Compile Include="Migrations\202002241400323_InitialMigrationComplete.Designer.cs">
+      <DependentUpon>202002241400323_InitialMigrationComplete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202002251456066_AddedUserRecords.cs" />
+    <Compile Include="Migrations\202002251456066_AddedUserRecords.Designer.cs">
+      <DependentUpon>202002251456066_AddedUserRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202002291220387_UsersMigration.cs" />
+    <Compile Include="Migrations\202002291220387_UsersMigration.Designer.cs">
+      <DependentUpon>202002291220387_UsersMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202003010220334_ManagerMigration.cs" />
+    <Compile Include="Migrations\202003010220334_ManagerMigration.Designer.cs">
+      <DependentUpon>202003010220334_ManagerMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202003011200485_ReservationMigration.cs" />
+    <Compile Include="Migrations\202003011200485_ReservationMigration.Designer.cs">
+      <DependentUpon>202003011200485_ReservationMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202003011253011_ManagerMigration2.cs" />
+    <Compile Include="Migrations\202003011253011_ManagerMigration2.Designer.cs">
+      <DependentUpon>202003011253011_ManagerMigration2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202003011417272_finalMigration.cs" />
+    <Compile Include="Migrations\202003011417272_finalMigration.Designer.cs">
+      <DependentUpon>202003011417272_finalMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\IUserRepository.cs" />
+    <Compile Include="Repository\UserRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202002211430096_InitialMigration.resx">
+      <DependentUpon>202002211430096_InitialMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202002211450400_InitialMigration1.resx">
+      <DependentUpon>202002211450400_InitialMigration1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202002230949535_Admin_Introduction.resx">
+      <DependentUpon>202002230949535_Admin_Introduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202002241400323_InitialMigrationComplete.resx">
+      <DependentUpon>202002241400323_InitialMigrationComplete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202002251456066_AddedUserRecords.resx">
+      <DependentUpon>202002251456066_AddedUserRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202002291220387_UsersMigration.resx">
+      <DependentUpon>202002291220387_UsersMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202003010220334_ManagerMigration.resx">
+      <DependentUpon>202003010220334_ManagerMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202003011200485_ReservationMigration.resx">
+      <DependentUpon>202003011200485_ReservationMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202003011253011_ManagerMigration2.resx">
+      <DependentUpon>202003011253011_ManagerMigration2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202003011417272_finalMigration.resx">
+      <DependentUpon>202003011417272_finalMigration.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

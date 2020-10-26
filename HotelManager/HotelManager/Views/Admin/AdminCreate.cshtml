@@ -1,0 +1,71 @@
+﻿@model Data.Entities.User
+@{
+    ViewBag.Title = "Admin Create";
+}
+@Html.Partial("~/Views/Admin/NavBarAdmin.cshtml")
+<html>
+<head>
+    <style>
+        #create-div {
+            position: absolute;
+            left: 43%;
+            top: 20%;
+            border: 2px solid #ccc;
+            padding: 10px 10px;
+        }
+
+        label {
+            display: inline-block;
+            width: 100px;
+            margin-right: 30px;
+            text-align: right;
+        }
+
+        input {
+        }
+
+        fieldset {
+            border: none;
+            width: 500px;
+            margin: 0px auto;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center;
+        margin-left: 100px;">
+        Add Manager
+    </h1><br />
+    @using (Html.BeginForm("AdminCreate", "Admin"))
+    {
+        <div id="create-div">
+            <label for="username" style="margin-left: 10px">Username:</label>
+            <input type="text" name="username" value="" /> <br />
+
+            <label for="password" style="margin-left: 10px">Password:</label>
+            <input type="password" name="password" value="" /> <br />
+
+            <label for="name" style="margin-left: 10px">Name:</label>
+            <input type="text" name="name" value="" /> <br />
+
+            <label for="midname" style="margin-left: 10px">Middle name:</label>
+            <input type="text" name="midname" value="" /> <br />
+
+            <label for="surename" style="margin-left: 10px">Surename:</label>
+            <input type="text" name="surename" value="" /> <br />
+
+            <label for="idnum" style="margin-left: 10px">ID:</label>
+            <input type="text" name="idnum" value="" /> <br />
+
+            <label for="phonenumber" style="margin-left: 10px">Phone number:</label>
+            <input type="text" name="phonenumber" value="" /> <br />
+
+            <label for="email" style="margin-left: 10px">Email:</label>
+            <input type="text" name="email" value="" /> <br />
+
+            <input type="submit" name="submituserinfo" value="Add user" style="margin-left:120px" />
+        </div>
+    }
+</body>
+</html>
+

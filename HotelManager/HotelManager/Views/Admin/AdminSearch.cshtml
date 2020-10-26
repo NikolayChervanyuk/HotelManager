@@ -1,0 +1,200 @@
+﻿@model IEnumerable<Data.Entities.User>
+@{
+    Layout = null;
+    ViewBag.Title = "Admin Search";
+}
+<!DOCTYPE html>
+@Styles.Render("~/Content/css")
+@Html.Partial("~/Views/Admin/NavBarAdmin.cshtml")
+}
+<style>
+    .dropbtn {
+        background-color: #111;
+        color: white;
+        padding: 10px;
+        font-size: 16px;
+        border: 2px;
+        border-color: #191919;
+        color: #818181;
+        display: block;
+        background: #efefef
+    }
+
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f1f1f1;
+        min-width: 63px;
+        box-shadow: 3px 3px 3px 3px rgba(0,0,0,0.2);
+        z-index: 1;
+    }
+
+        .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+
+            .dropdown-content a:hover {
+                background-color: grey;
+            }
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+
+    .dropdown:hover .dropbtn {
+        background-color: dimgrey;
+    }
+
+    .usersList th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #2f2f2f;
+        color: white;
+    }
+
+    .usersList {
+        border-collapse: collapse;
+        width: 80%;
+    }
+
+        .usersList td, .usersList th {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+
+        .usersList tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        .usersList tr:hover {
+            background-color: #ddd;
+        }
+    .a{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+</style>
+} );
+<html>
+<head>
+</head>
+<body>
+    <h1 style="text-align: center;
+        margin-left: 100px;">
+        List of Managers
+    </h1><br />
+    <div>
+        @using (Html.BeginForm("AdminSearch", "Admin"))
+        {
+            <label for="filters" style="margin-left: 250px">Filter by:</label>
+            <select id="filters" name="filters">
+                <option value="nofilter" >---</option>
+                <option value="username">Username</option>
+                <option value="name">Name</option>
+                <option value="midname">Middlename</option>
+                <option value="surename">Surename</option>
+                <option value="email">E-mail</option>
+            </select>
+            <label style="padding-left:10px; padding-right:10px; font-weight:900">-></label>
+            <input id="textfilter " type="text" name="textfilter" value="" style="min-width: 300px; padding-left: 10px;" />
+            <input type="submit" name="applyfilter" value="Apply Filter"/>
+        }
+    </div>
+    @*<div class="dropdown">
+            <button class="dropbtn" name="listCount" style="height:auto; width: auto; margin-left: 220px; margin-right: auto;">Show:</button>
+            <div class="dropdown-content" style="height:auto; width: auto; margin-left: 220px; margin-right: auto;">
+                <a href="@Url.Action("AdminSearch", "Admin", new {  recordsCount = 10 })">10</a>
+                <a href="@Url.Action("AdminSearch", "Admin", new {  recordsCount = 25 })">25</a>
+                <a href="@Url.Action("AdminSearch", "Admin", new {  recordsCount = 50 })">50</a>
+            </div>
+        </div>*@
+    <div style="overflow:auto;">
+
+        <table id="usersTable" class="usersList" style="height: 98px; margin-left: 220px; margin-right: auto;" width="1158">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Name</th>
+                    <th>Middle Name</th>
+                    <th>Surename</th>
+                    <th>ID</th>
+                    <th>Username</th>
+                    <th>Phone number</th>
+                    <th>Email</th>
+                    <th>Assignment date</th>
+                    <th>Is Active</th>
+                </tr>
+            </thead>
+            <tbody>
+                @using (Html.BeginForm("AdminSearch", "Admin", FormMethod.Get))
+                {
+                    int i = 0;
+                    foreach (var user in Model)
+                    {
+                        i++;
+                        <tr>
+                            <td>@i</td>
+                            <td>@user.Name</td>
+                            <td>@user.MiddleName</td>
+                            <td>@user.SureName</td>
+                            <td>@user.IDnum</td>
+                            <td>@user.Username</td>
+                            <td>@user.PhoneNumber</td>
+                            <td>@user.Email</td>
+                            <td>@user.Assignment</td>
+                            <td>@user.IsActive</td>
+                            <td><a href="@Url.Action("AdminEditFindRecordById","Admin", new {Id = user.ID })">Edit</a>
+                                <a href="@Url.Action("AdminDelete","Admin", new {Id = user.ID })">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+            <tfoot>
+                @*<tr>
+                    <td colspan="8">
+                        <div class="links" style="font-weight:900; transform: scale(1.5,1.5); margin-left:250px">
+                            <a href="@Url.Action("AdminSearch", "Admin", new { pageAct = -1})" style="padding-right: 5px">&lArr;</a>
+                            <a href="@Url.Action("AdminSearch", "Admin", new { pageAct = 1})" style="padding-left: 5px">&rArr;</a>
+                        </div>
+                            </td>
+                            </tr>*@
+            </tfoot>
+        </table>
+    </div>
+</body>
+</html>
+@section scripts
+{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#usersTable').DataTable({
+                processing: true,
+                serverSide: true,
+                ordering: false,
+                paging: false,
+                searching: false,
+                ajax: "Controllers/Admin",
+                columns: [
+                    { "data": "Name" },
+                    { "data": "MiddleName" },
+                    { "data": "SureName" },
+                    { "data": "IDnum" },
+                    { "data": "Username" },
+                    { "data": "PhoneNumber" },
+                    { "data": "Email" },
+                    { "data": "Assignment" }
+                ]
+            });
+        });
+    </script>
+}

@@ -1,0 +1,544 @@
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\HotelManager.dll.config
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\HotelManager.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\HotelManager.pdb
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\csc.exe
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\csc.exe.config
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\csc.rsp
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\csi.exe
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\csi.exe.config
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\csi.rsp
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.AppContext.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.Console.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.Net.Http.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\vbc.exe
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\vbc.exe.config
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\vbc.rsp
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Antlr3.Runtime.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\EntityFramework.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\EntityFramework.SqlServer.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Owin.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Owin.Security.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Newtonsoft.Json.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Owin.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Net.Http.Formatting.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Web.Helpers.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Web.Http.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Web.Http.Owin.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Web.Http.WebHost.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Web.Mvc.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Web.Optimization.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Web.Razor.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Web.WebPages.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\WebGrease.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Newtonsoft.Json.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Net.Http.Formatting.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Web.Helpers.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Web.Http.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Web.Http.WebHost.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Web.Mvc.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Web.Optimization.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Web.Razor.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Web.WebPages.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Antlr3.Runtime.pdb
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\EntityFramework.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\EntityFramework.SqlServer.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Owin.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Owin.Security.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Web.Http.Owin.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.csprojAssemblyReference.cache
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CopyComplete
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\obj\Debug\HotelManager.pdb
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Data.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Data.pdb
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Data.dll.config
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.Options.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Identity.Client.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Buffers.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Collections.Immutable.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.ComponentModel.Annotations.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Memory.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Numerics.Vectors.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.Options.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\Microsoft.Identity.Client.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Buffers.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Collections.Immutable.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Memory.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Numerics.Vectors.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\HotelManager\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\HotelManager.dll.config
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\HotelManager.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\HotelManager.pdb
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\csc.exe
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\csc.exe.config
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\csc.rsp
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\csi.exe
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\csi.exe.config
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\csi.rsp
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.AppContext.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.Console.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.Net.Http.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\vbc.exe
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\vbc.exe.config
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\vbc.rsp
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Antlr3.Runtime.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Data.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\EntityFramework.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\EntityFramework.SqlServer.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.Options.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Identity.Client.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Owin.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Owin.Security.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Newtonsoft.Json.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Owin.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Buffers.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Collections.Immutable.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.ComponentModel.Annotations.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Memory.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Net.Http.Formatting.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Numerics.Vectors.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Web.Helpers.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Web.Http.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Web.Http.Owin.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Web.Http.WebHost.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Web.Mvc.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Web.Optimization.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Web.Razor.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Web.WebPages.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\WebGrease.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Data.pdb
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Data.dll.config
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.Options.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Identity.Client.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Buffers.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Collections.Immutable.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Memory.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Numerics.Vectors.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Newtonsoft.Json.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Net.Http.Formatting.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Web.Helpers.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Web.Http.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Web.Http.WebHost.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Web.Mvc.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Web.Optimization.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Web.Razor.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Web.WebPages.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Antlr3.Runtime.pdb
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\EntityFramework.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\EntityFramework.SqlServer.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Owin.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Owin.Security.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\System.Web.Http.Owin.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\obj\Debug\HotelManager.csprojAssemblyReference.cache
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CoreCompileInputs.cache
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CopyComplete
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\obj\Debug\HotelManager.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\HotelManager\obj\Debug\HotelManager.pdb
+E:\HotelManager\HotelManager\bin\HotelManager.dll.config
+E:\HotelManager\HotelManager\bin\HotelManager.dll
+E:\HotelManager\HotelManager\bin\HotelManager.pdb
+E:\HotelManager\HotelManager\bin\roslyn\csc.exe
+E:\HotelManager\HotelManager\bin\roslyn\csc.exe.config
+E:\HotelManager\HotelManager\bin\roslyn\csc.rsp
+E:\HotelManager\HotelManager\bin\roslyn\csi.exe
+E:\HotelManager\HotelManager\bin\roslyn\csi.exe.config
+E:\HotelManager\HotelManager\bin\roslyn\csi.rsp
+E:\HotelManager\HotelManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\HotelManager\HotelManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\HotelManager\HotelManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\HotelManager\HotelManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\HotelManager\HotelManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\HotelManager\HotelManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\HotelManager\HotelManager\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\HotelManager\HotelManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\HotelManager\HotelManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\HotelManager\HotelManager\bin\roslyn\Microsoft.Managed.Core.targets
+E:\HotelManager\HotelManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\HotelManager\HotelManager\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.AppContext.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.Collections.Immutable.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.Console.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.Globalization.Calendars.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.IO.Compression.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.IO.FileSystem.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.Net.Http.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.Net.Sockets.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.Reflection.Metadata.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.ValueTuple.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.Xml.XmlDocument.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.Xml.XPath.dll
+E:\HotelManager\HotelManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\HotelManager\HotelManager\bin\roslyn\vbc.exe
+E:\HotelManager\HotelManager\bin\roslyn\vbc.exe.config
+E:\HotelManager\HotelManager\bin\roslyn\vbc.rsp
+E:\HotelManager\HotelManager\bin\roslyn\VBCSCompiler.exe
+E:\HotelManager\HotelManager\bin\roslyn\VBCSCompiler.exe.config
+E:\HotelManager\HotelManager\bin\Antlr3.Runtime.dll
+E:\HotelManager\HotelManager\bin\Data.dll
+E:\HotelManager\HotelManager\bin\EntityFramework.dll
+E:\HotelManager\HotelManager\bin\EntityFramework.SqlServer.dll
+E:\HotelManager\HotelManager\bin\Microsoft.AspNet.Identity.Core.dll
+E:\HotelManager\HotelManager\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\HotelManager\HotelManager\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Bcl.HashCode.dll
+E:\HotelManager\HotelManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Data.SqlClient.dll
+E:\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.dll
+E:\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.Relational.dll
+E:\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.Configuration.Binder.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.Configuration.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.Logging.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.Options.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.Primitives.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Identity.Client.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Owin.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Cookies.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Owin.Security.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Facebook.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Google.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Owin.Security.OAuth.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Twitter.dll
+E:\HotelManager\HotelManager\bin\Microsoft.Web.Infrastructure.dll
+E:\HotelManager\HotelManager\bin\Newtonsoft.Json.dll
+E:\HotelManager\HotelManager\bin\Owin.dll
+E:\HotelManager\HotelManager\bin\System.Buffers.dll
+E:\HotelManager\HotelManager\bin\System.Collections.Immutable.dll
+E:\HotelManager\HotelManager\bin\System.ComponentModel.Annotations.dll
+E:\HotelManager\HotelManager\bin\System.Diagnostics.DiagnosticSource.dll
+E:\HotelManager\HotelManager\bin\System.Memory.dll
+E:\HotelManager\HotelManager\bin\System.Net.Http.Formatting.dll
+E:\HotelManager\HotelManager\bin\System.Numerics.Vectors.dll
+E:\HotelManager\HotelManager\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\HotelManager\HotelManager\bin\System.Threading.Tasks.Extensions.dll
+E:\HotelManager\HotelManager\bin\System.Web.Helpers.dll
+E:\HotelManager\HotelManager\bin\System.Web.Http.dll
+E:\HotelManager\HotelManager\bin\System.Web.Http.Owin.dll
+E:\HotelManager\HotelManager\bin\System.Web.Http.WebHost.dll
+E:\HotelManager\HotelManager\bin\System.Web.Mvc.dll
+E:\HotelManager\HotelManager\bin\System.Web.Optimization.dll
+E:\HotelManager\HotelManager\bin\System.Web.Razor.dll
+E:\HotelManager\HotelManager\bin\System.Web.WebPages.Deployment.dll
+E:\HotelManager\HotelManager\bin\System.Web.WebPages.dll
+E:\HotelManager\HotelManager\bin\System.Web.WebPages.Razor.dll
+E:\HotelManager\HotelManager\bin\WebGrease.dll
+E:\HotelManager\HotelManager\bin\Data.pdb
+E:\HotelManager\HotelManager\bin\Data.dll.config
+E:\HotelManager\HotelManager\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Bcl.HashCode.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Data.SqlClient.pdb
+E:\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.xml
+E:\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.Relational.xml
+E:\HotelManager\HotelManager\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.Configuration.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.Configuration.Binder.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.Logging.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.Options.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Extensions.Primitives.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Identity.Client.xml
+E:\HotelManager\HotelManager\bin\System.Buffers.xml
+E:\HotelManager\HotelManager\bin\System.Collections.Immutable.xml
+E:\HotelManager\HotelManager\bin\System.Diagnostics.DiagnosticSource.xml
+E:\HotelManager\HotelManager\bin\System.Memory.xml
+E:\HotelManager\HotelManager\bin\System.Numerics.Vectors.xml
+E:\HotelManager\HotelManager\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\HotelManager\HotelManager\bin\System.Threading.Tasks.Extensions.xml
+E:\HotelManager\HotelManager\bin\Newtonsoft.Json.xml
+E:\HotelManager\HotelManager\bin\System.Net.Http.Formatting.xml
+E:\HotelManager\HotelManager\bin\System.Web.Helpers.xml
+E:\HotelManager\HotelManager\bin\System.Web.Http.xml
+E:\HotelManager\HotelManager\bin\System.Web.Http.WebHost.xml
+E:\HotelManager\HotelManager\bin\System.Web.Mvc.xml
+E:\HotelManager\HotelManager\bin\System.Web.Optimization.xml
+E:\HotelManager\HotelManager\bin\System.Web.Razor.xml
+E:\HotelManager\HotelManager\bin\System.Web.WebPages.xml
+E:\HotelManager\HotelManager\bin\System.Web.WebPages.Deployment.xml
+E:\HotelManager\HotelManager\bin\System.Web.WebPages.Razor.xml
+E:\HotelManager\HotelManager\bin\Antlr3.Runtime.pdb
+E:\HotelManager\HotelManager\bin\EntityFramework.xml
+E:\HotelManager\HotelManager\bin\EntityFramework.SqlServer.xml
+E:\HotelManager\HotelManager\bin\Microsoft.AspNet.Identity.Core.xml
+E:\HotelManager\HotelManager\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\HotelManager\HotelManager\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Owin.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Owin.Security.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Facebook.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Cookies.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Google.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Owin.Security.Twitter.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\HotelManager\HotelManager\bin\Microsoft.Owin.Security.OAuth.xml
+E:\HotelManager\HotelManager\bin\System.Web.Http.Owin.xml
+E:\HotelManager\HotelManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\HotelManager\HotelManager\bin\de\Microsoft.Data.SqlClient.resources.dll
+E:\HotelManager\HotelManager\bin\es\Microsoft.Data.SqlClient.resources.dll
+E:\HotelManager\HotelManager\bin\fr\Microsoft.Data.SqlClient.resources.dll
+E:\HotelManager\HotelManager\bin\it\Microsoft.Data.SqlClient.resources.dll
+E:\HotelManager\HotelManager\bin\ja\Microsoft.Data.SqlClient.resources.dll
+E:\HotelManager\HotelManager\bin\ko\Microsoft.Data.SqlClient.resources.dll
+E:\HotelManager\HotelManager\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\HotelManager\HotelManager\bin\ru\Microsoft.Data.SqlClient.resources.dll
+E:\HotelManager\HotelManager\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\HotelManager\HotelManager\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\HotelManager\HotelManager\obj\Debug\HotelManager.csprojAssemblyReference.cache
+E:\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CopyComplete
+E:\HotelManager\HotelManager\obj\Debug\HotelManager.dll
+E:\HotelManager\HotelManager\obj\Debug\HotelManager.pdb

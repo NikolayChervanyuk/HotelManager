@@ -1,0 +1,64 @@
+C:\Users\Kifli4KA\Desktop\HotelManager\Data\bin\Debug\Data.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\Data\bin\Debug\Data.pdb
+C:\Users\Kifli4KA\Desktop\HotelManager\Data\obj\Debug\Data.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\Data\obj\Debug\Data.pdb
+C:\Users\Kifli4KA\Desktop\HotelManager\Data\bin\Debug\Data.dll.config
+C:\Users\Kifli4KA\Desktop\HotelManager\Data\bin\Debug\EntityFramework.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kifli4KA\Desktop\HotelManager\Data\bin\Debug\EntityFramework.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kifli4KA\Desktop\HotelManager\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Kifli4KA\Desktop\HotelManager\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Kifli4KA\Desktop\HotelManager\Data\obj\Debug\Data.Migrations.InitialMigration.resources
+C:\Users\Kifli4KA\Desktop\HotelManager\Data\obj\Debug\Data.csproj.GenerateResource.cache
+C:\Users\Kifli4KA\Desktop\HotelManager\Data\obj\Debug\Data.Migrations.InitialMigration1.resources
+C:\Users\Kifli4KA\Desktop\HotelManager\Data\obj\Debug\Data.Migrations.Admin_Introduction.resources
+C:\Users\Kifli4KA\Desktop\HotelManager\Data\obj\Debug\Data.Migrations.InitialMigrationComplete.resources
+C:\Users\Kifli4KA\Desktop\HotelManager\Data\obj\Debug\Data.Migrations.AddedUserRecords.resources
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\bin\Debug\Data.dll.config
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\bin\Debug\Data.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\bin\Debug\Data.pdb
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\bin\Debug\EntityFramework.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\bin\Debug\EntityFramework.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\obj\Debug\Data.Migrations.InitialMigration.resources
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\obj\Debug\Data.Migrations.InitialMigration1.resources
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\obj\Debug\Data.Migrations.Admin_Introduction.resources
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\obj\Debug\Data.Migrations.InitialMigrationComplete.resources
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\obj\Debug\Data.Migrations.AddedUserRecords.resources
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\obj\Debug\Data.csproj.GenerateResource.cache
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\obj\Debug\Data.dll
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\obj\Debug\Data.pdb
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\obj\Debug\Data.Migrations.UsersMigration.resources
+C:\Users\Kifli4KA\Desktop\HotelManager\Data\obj\Debug\Data.Migrations.UsersMigration.resources
+C:\Users\Kifli4KA\Desktop\HotelManager\Data\obj\Debug\Data.Migrations.ManagerMigration.resources
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\obj\Debug\Data.Migrations.ManagerMigration.resources
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\obj\Debug\Data.Migrations.ReservationMigration.resources
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\obj\Debug\Data.Migrations.ManagerMigration2.resources
+C:\Users\Student KK1\Desktop\M13\HotelManager\Data\obj\Debug\Data.Migrations.finalMigration.resources
+E:\HotelManager\Data\bin\Debug\Data.dll.config
+E:\HotelManager\Data\bin\Debug\Data.dll
+E:\HotelManager\Data\bin\Debug\Data.pdb
+E:\HotelManager\Data\bin\Debug\EntityFramework.dll
+E:\HotelManager\Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\HotelManager\Data\bin\Debug\EntityFramework.xml
+E:\HotelManager\Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\HotelManager\Data\obj\Debug\Data.csprojAssemblyReference.cache
+E:\HotelManager\Data\obj\Debug\Data.Migrations.InitialMigration.resources
+E:\HotelManager\Data\obj\Debug\Data.Migrations.InitialMigration1.resources
+E:\HotelManager\Data\obj\Debug\Data.Migrations.Admin_Introduction.resources
+E:\HotelManager\Data\obj\Debug\Data.Migrations.InitialMigrationComplete.resources
+E:\HotelManager\Data\obj\Debug\Data.Migrations.AddedUserRecords.resources
+E:\HotelManager\Data\obj\Debug\Data.Migrations.UsersMigration.resources
+E:\HotelManager\Data\obj\Debug\Data.Migrations.ManagerMigration.resources
+E:\HotelManager\Data\obj\Debug\Data.Migrations.ReservationMigration.resources
+E:\HotelManager\Data\obj\Debug\Data.Migrations.ManagerMigration2.resources
+E:\HotelManager\Data\obj\Debug\Data.Migrations.finalMigration.resources
+E:\HotelManager\Data\obj\Debug\Data.csproj.GenerateResource.cache
+E:\HotelManager\Data\obj\Debug\Data.csproj.CopyComplete
+E:\HotelManager\Data\obj\Debug\Data.dll
+E:\HotelManager\Data\obj\Debug\Data.pdb

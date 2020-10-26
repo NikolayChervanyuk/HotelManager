@@ -1,0 +1,136 @@
+﻿@model IEnumerable<Data.Entities.Reservation>
+@{
+    Layout = null;
+    ViewBag.Title = "Manager Search Reservations";
+}
+<!DOCTYPE html>
+@Styles.Render("~/Content/css")
+@Html.Partial("~/Views/Manager/NavBarManager.cshtml")
+    }
+<style>
+    .dropbtn {
+        background-color: #111;
+        color: white;
+        padding: 10px;
+        font-size: 16px;
+        border: 2px;
+        border-color: #191919;
+        color: #818181;
+        display: block;
+        background: #efefef
+    }
+
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f1f1f1;
+        min-width: 63px;
+        box-shadow: 3px 3px 3px 3px rgba(0,0,0,0.2);
+        z-index: 1;
+    }
+
+        .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+
+            .dropdown-content a:hover {
+                background-color: grey;
+            }
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+
+    .dropdown:hover .dropbtn {
+        background-color: dimgrey;
+    }
+
+    .usersList th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #2f2f2f;
+        color: white;
+    }
+
+    .usersList {
+        border-collapse: collapse;
+        width: 80%;
+    }
+
+        .usersList td, .usersList th {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+
+        .usersList tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        .usersList tr:hover {
+            background-color: #ddd;
+        }
+
+    .a {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+</style>
+    } );
+<html>
+<head>
+</head>
+<body>
+    <h1 style="text-align: center;
+        margin-left: 5%;">
+        List of Reservations
+    </h1><br />
+    <table id="usersTable" class="usersList" style="height: 98px; margin-left: 220px; margin-right: auto;" width="1158">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Room Number</th>
+                <th>Reserved by</th>
+                @*<th>Occupants</th>*@
+                <th>Accomodation Date</th>
+                <th>Discharge Date</th>
+                <th>Included breakfast</th>
+                <th>All inclusive</th>
+                <th>Total Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @using (Html.BeginForm("ManagerSearchReservation", "Manager", FormMethod.Get))
+            {
+                int i = 0;
+                foreach (var reservation in Model)
+                {
+                    i++;
+            <tr>
+                <td>@i</td>
+                <td>@reservation.RoomNumber</td>
+                <td>@reservation.User</td>
+                @*<td>@reservation.AccomodatedClients.Count</td>*@
+                <td>@reservation.AccomodationDate</td>
+                <td>@reservation.DischargeDate</td>
+                <td>@reservation.BreakFastIncluded</td>
+                <td>@reservation.Allinclusive</td>
+                <td>@reservation.TotalPrice</td>
+            </tr>
+                }
+            }
+        </tbody>
+        <tfoot>
+        </tfoot>
+    </table>
+</body>
+</html>
+

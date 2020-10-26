@@ -1,0 +1,78 @@
+﻿@model Data.Entities.User
+@{
+    ViewBag.Title = "Manager Login";
+}
+
+<!DOCTYPE html>
+@Styles.Render("~/Content/css")
+<html>
+<head>
+    <style>
+        #login-div {
+            position: absolute;
+            left: 40%;
+            top: 30%;
+            border: 2px solid #ccc;
+            padding: 10px 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="login-div">
+        @using (Html.BeginForm("ManagerVerification", "Login", FormMethod.Post))
+        {
+            <div>
+                <style>
+                    .ManagerIcon {
+                        background: url(../../icons/manager.png);
+                        display: block;
+                        text-align: center;
+                        height: 128px;
+                        width: 128px;
+                    }
+                </style>
+                <span class="ManagerIcon" style="margin:auto"></span>
+            </div>
+            <table>
+                <tr>
+                    <td></td>
+                    <td>Login as Manager</td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(m => m.Username)</td>
+                    <td>@Html.EditorFor(m => m.Username)</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        @Html.ValidationMessageFor(m => m.Username)
+                    </td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(m => m.Password)</td>
+                    <td>@Html.EditorFor(m => m.Password)</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        @Html.ValidationMessageFor(m => m.Password)
+                    </td>
+                </tr>
+                <tr>
+
+                    <td></td>
+                    <td>
+                        <input type="submit" value="Login" onclick="location.href = '@Url.Action("ManagerVerification", "Login", Model)'" />
+                    </td>
+
+                </tr>
+
+            </table>
+        }
+    </div>
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+</body>
+</html>
+

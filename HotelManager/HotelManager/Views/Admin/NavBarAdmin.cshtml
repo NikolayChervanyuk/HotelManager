@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+@Styles.Render("~/Content/css")
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        .sidenav {
+            height: 100%;
+            width: 200px;
+            position: fixed;
+            z-index: 1;
+            top: 0;
+            left: 0;
+            background-color: #111;
+            overflow-x: hidden;
+            padding-top: 20px;
+        }
+
+            .sidenav a {
+                padding: 6px 8px 6px 16px;
+                text-decoration: none;
+                font-size: 25px;
+                color: #818181;
+                display: block;
+                background: none
+            }
+
+                .sidenav a:hover {
+                    color: #f1f1f1;
+                }
+
+        .main {
+            margin-left: 160px; /* Same as the width of the sidenav */
+            font-size: 28px; /* Increased text to enable scrolling */
+            padding: 0px 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="sidenav">
+        <a href="#" name="searchBtn" value="Search User" onclick="location.href = '@Url.Action("AdminSearch", "Admin",Model)'">Search User </a>
+        <a href="#" name="createhBtn" value="Create User" onclick="location.href = '@Url.Action("AdminCreate", "Admin",Model)'">Create User</a>
+        <a href="#" name="searchRoomBtn" value="rooms" onclick="location.href = '@Url.Action("AdminSearchRoom", "Admin",Model)'">Rooms</a>
+        <a href="#" name="createRoomBtn" value="addroom" onclick="location.href = '@Url.Action("AdminCreateRoom", "Admin",Model)'">Add Room</a>
+        <a href="#" name="searchRoomBtn" value="rooms" onclick="location.href = '@Url.Action("ManagerSearchRoom", "Manager",Model)'">Rooms</a>
+        <a href="#" name="reserverSearchBtn" onclick="location.href = '@Url.Action("ManagerSearchReservation", "Manager")'">Reservations</a>
+        <a href="#" name="reserverRoomBtn" value="reservate" onclick="location.href = '@Url.Action("ManagerNewReservation", "Manager", new { Model })'">New Reservation</a>
+        <a href="#" name="reserverRoomBtn" value="reservate" onclick="location.href = '@Url.Action("ManagerSearchClient", "Manager", new { Model })'">Clients</a>
+        <a href="#" name="createRoomBtn" value="logout" onclick="location.href = '@Url.Action("UserRole", "Login",Model)'">&lArr;Log out</a>
+    </div>
+</body>
+</html>

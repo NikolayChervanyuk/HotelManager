@@ -1,0 +1,86 @@
+﻿@model Data.Entities.Reservation
+@{
+    /**/
+
+    ViewBag.Title = "New Reservation";
+}
+@Html.Partial("~/Views/Manager/NavBarManager.cshtml")
+<html>
+<head>
+    <style>
+        #create-div {
+            position: absolute;
+            left: 43%;
+            top: 20%;
+            border: 2px solid #ccc;
+            padding: 10px 10px;
+        }
+
+        label {
+            display: inline-block;
+            width: 150px;
+            margin-right: 30px;
+            text-align: right;
+        }
+
+        input {
+        }
+
+        fieldset {
+            border: none;
+            width: 500px;
+            margin: 0px auto;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center;
+        margin-left: 100px;">
+        New Reservation
+    </h1><br />
+    @using (Html.BeginForm("ManagerNewReservationSave", "Manager", Model))
+    {
+        <div id="create-div">
+            <label for="capacity" style="margin-left: 10px">Accomodation Room:</label>
+            @Html.EditorFor(m => m.RoomNumber) <br />
+
+            <label for="name" style="margin-left: 10px">Reserved by(E-mail only):</label>
+            @Html.EditorFor(m => m.User) <br />
+
+            <label for="midname" style="margin-left: 10px">Accomodation Date:</label>
+            @Html.EditorFor(m => m.AccomodationDate) <br />
+
+            <label for="surename" style="margin-left: 10px">Discharge date:</label>
+            @Html.EditorFor(m => m.DischargeDate) <br />
+
+            <label for="surename" style="margin-left: 10px">All inclusive:</label>
+            @Html.CheckBoxFor(m => m.Allinclusive) <br /><br />
+
+            <label for="surename" style="margin-left: 10px">Included breakfast:</label>
+            @Html.CheckBoxFor(m => m.BreakFastIncluded) <br /><br />
+
+            <label for="name" style="margin-left: 10px; font-weight: 700; ">Occupants List:</label> <br />
+            @for (int i = 0; i < 6; i++)
+            {
+                <h5>@(i + 1)</h5>
+                <label>@nameof(Data.Entities.Client.FirstName).ToString():</label>
+                @Html.EditorFor(m => m.AccomodatedClients[i].FirstName) <br />
+                <label>@nameof(Data.Entities.Client.SureName).ToString():</label>
+                @Html.EditorFor(m => m.AccomodatedClients[i].SureName) <br />
+                <label>@nameof(Data.Entities.Client.Number).ToString():</label>
+                @Html.EditorFor(m => m.AccomodatedClients[i].Number) <br />
+                <label>@nameof(Data.Entities.Client.Email).ToString():</label>
+                @Html.EditorFor(m => m.AccomodatedClients[i].Email) <br />
+                <label>@nameof(Data.Entities.Client.Adult).ToString():</label>
+                @Html.CheckBoxFor(m => m.AccomodatedClients[i].Adult) <br />
+            }
+            @*<label for="surename" style="margin-left: 10px">Total:</label>
+            @Html.TextBoxFor(m => m.TotalPrice, new { @readonly = "readonly" }) <br />*@
+            @*<input type="submit" name="submitroominfo" value="Calculate total" style="margin-left:120px" />*@
+            <input type="submit" name="savereservationinfo" value="Save Reservation" style="margin-left:100px" />
+        </div>
+    }
+</body>
+</html>
+
+
